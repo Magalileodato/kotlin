@@ -1,0 +1,11 @@
+Diferenças – calculado em 657 ms
+  F1 (0 ponto(s)):
+  F1r (0 ponto(s)):
+  F2 (0 ponto(s)):
+  F2r (0 ponto(s)):
+  F3 (0 ponto(s)):
+  F3r (0 ponto(s)):
+  F4 (0 ponto(s)):
+  F4r (0 ponto(s)):
+  F7x (0 ponto(s)):
+  F8x (0 ponto(s)):
